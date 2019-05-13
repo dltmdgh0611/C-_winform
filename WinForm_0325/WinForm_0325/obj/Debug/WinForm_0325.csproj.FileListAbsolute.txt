@@ -1,0 +1,10 @@
+C:\Users\dltmd\source\repos\WinForm_0325\WinForm_0325\bin\Debug\WinForm_0325.exe.config
+C:\Users\dltmd\source\repos\WinForm_0325\WinForm_0325\bin\Debug\WinForm_0325.exe
+C:\Users\dltmd\source\repos\WinForm_0325\WinForm_0325\bin\Debug\WinForm_0325.pdb
+C:\Users\dltmd\source\repos\WinForm_0325\WinForm_0325\obj\Debug\WinForm_0325.csprojAssemblyReference.cache
+C:\Users\dltmd\source\repos\WinForm_0325\WinForm_0325\obj\Debug\WinForm_0325.Form1.resources
+C:\Users\dltmd\source\repos\WinForm_0325\WinForm_0325\obj\Debug\WinForm_0325.Properties.Resources.resources
+C:\Users\dltmd\source\repos\WinForm_0325\WinForm_0325\obj\Debug\WinForm_0325.csproj.GenerateResource.cache
+C:\Users\dltmd\source\repos\WinForm_0325\WinForm_0325\obj\Debug\WinForm_0325.csproj.CoreCompileInputs.cache
+C:\Users\dltmd\source\repos\WinForm_0325\WinForm_0325\obj\Debug\WinForm_0325.exe
+C:\Users\dltmd\source\repos\WinForm_0325\WinForm_0325\obj\Debug\WinForm_0325.pdb

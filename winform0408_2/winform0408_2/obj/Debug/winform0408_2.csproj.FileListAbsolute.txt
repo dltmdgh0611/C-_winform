@@ -1,0 +1,10 @@
+C:\Users\dltmd\source\repos\winform0408_2\winform0408_2\bin\Debug\winform0408_2.exe.config
+C:\Users\dltmd\source\repos\winform0408_2\winform0408_2\bin\Debug\winform0408_2.exe
+C:\Users\dltmd\source\repos\winform0408_2\winform0408_2\bin\Debug\winform0408_2.pdb
+C:\Users\dltmd\source\repos\winform0408_2\winform0408_2\obj\Debug\winform0408_2.csprojAssemblyReference.cache
+C:\Users\dltmd\source\repos\winform0408_2\winform0408_2\obj\Debug\winform0408_2.Form1.resources
+C:\Users\dltmd\source\repos\winform0408_2\winform0408_2\obj\Debug\winform0408_2.Properties.Resources.resources
+C:\Users\dltmd\source\repos\winform0408_2\winform0408_2\obj\Debug\winform0408_2.csproj.GenerateResource.cache
+C:\Users\dltmd\source\repos\winform0408_2\winform0408_2\obj\Debug\winform0408_2.csproj.CoreCompileInputs.cache
+C:\Users\dltmd\source\repos\winform0408_2\winform0408_2\obj\Debug\winform0408_2.exe
+C:\Users\dltmd\source\repos\winform0408_2\winform0408_2\obj\Debug\winform0408_2.pdb

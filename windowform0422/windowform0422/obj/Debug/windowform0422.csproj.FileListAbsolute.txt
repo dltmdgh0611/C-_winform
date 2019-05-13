@@ -1,0 +1,10 @@
+C:\Users\dltmd\source\repos\windowform0422\windowform0422\bin\Debug\windowform0422.exe.config
+C:\Users\dltmd\source\repos\windowform0422\windowform0422\bin\Debug\windowform0422.exe
+C:\Users\dltmd\source\repos\windowform0422\windowform0422\bin\Debug\windowform0422.pdb
+C:\Users\dltmd\source\repos\windowform0422\windowform0422\obj\Debug\windowform0422.csprojAssemblyReference.cache
+C:\Users\dltmd\source\repos\windowform0422\windowform0422\obj\Debug\windowform0422.Form1.resources
+C:\Users\dltmd\source\repos\windowform0422\windowform0422\obj\Debug\windowform0422.Properties.Resources.resources
+C:\Users\dltmd\source\repos\windowform0422\windowform0422\obj\Debug\windowform0422.csproj.GenerateResource.cache
+C:\Users\dltmd\source\repos\windowform0422\windowform0422\obj\Debug\windowform0422.csproj.CoreCompileInputs.cache
+C:\Users\dltmd\source\repos\windowform0422\windowform0422\obj\Debug\windowform0422.exe
+C:\Users\dltmd\source\repos\windowform0422\windowform0422\obj\Debug\windowform0422.pdb

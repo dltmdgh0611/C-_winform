@@ -1,0 +1,10 @@
+C:\Users\dltmd\source\repos\MSG_190311\MSG_190311\bin\Debug\MSG_190311.exe.config
+C:\Users\dltmd\source\repos\MSG_190311\MSG_190311\bin\Debug\MSG_190311.exe
+C:\Users\dltmd\source\repos\MSG_190311\MSG_190311\bin\Debug\MSG_190311.pdb
+C:\Users\dltmd\source\repos\MSG_190311\MSG_190311\obj\Debug\MSG_190311.csprojAssemblyReference.cache
+C:\Users\dltmd\source\repos\MSG_190311\MSG_190311\obj\Debug\MSG_190311.Form1.resources
+C:\Users\dltmd\source\repos\MSG_190311\MSG_190311\obj\Debug\MSG_190311.Properties.Resources.resources
+C:\Users\dltmd\source\repos\MSG_190311\MSG_190311\obj\Debug\MSG_190311.csproj.GenerateResource.cache
+C:\Users\dltmd\source\repos\MSG_190311\MSG_190311\obj\Debug\MSG_190311.csproj.CoreCompileInputs.cache
+C:\Users\dltmd\source\repos\MSG_190311\MSG_190311\obj\Debug\MSG_190311.exe
+C:\Users\dltmd\source\repos\MSG_190311\MSG_190311\obj\Debug\MSG_190311.pdb

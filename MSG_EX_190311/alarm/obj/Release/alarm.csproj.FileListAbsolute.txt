@@ -1,0 +1,13 @@
+C:\Users\dltmd\OneDrive\바탕 화면\alarm.exe.config
+C:\Users\dltmd\OneDrive\바탕 화면\alarm.exe
+C:\Users\dltmd\OneDrive\바탕 화면\alarm.pdb
+C:\Users\dltmd\source\repos\MSG_EX_190311\alarm\obj\Release\MSG_190311.error.resources
+C:\Users\dltmd\source\repos\MSG_EX_190311\alarm\obj\Release\MSG_190311.Form1.resources
+C:\Users\dltmd\source\repos\MSG_EX_190311\alarm\obj\Release\MSG_190311.alarm.resources
+C:\Users\dltmd\source\repos\MSG_EX_190311\alarm\obj\Release\MSG_190311.notice.resources
+C:\Users\dltmd\source\repos\MSG_EX_190311\alarm\obj\Release\MSG_190311.Planner.resources
+C:\Users\dltmd\source\repos\MSG_EX_190311\alarm\obj\Release\alarm.Properties.Resources.resources
+C:\Users\dltmd\source\repos\MSG_EX_190311\alarm\obj\Release\alarm.csproj.GenerateResource.cache
+C:\Users\dltmd\source\repos\MSG_EX_190311\alarm\obj\Release\alarm.csproj.CoreCompileInputs.cache
+C:\Users\dltmd\source\repos\MSG_EX_190311\alarm\obj\Release\alarm.exe
+C:\Users\dltmd\source\repos\MSG_EX_190311\alarm\obj\Release\alarm.pdb
